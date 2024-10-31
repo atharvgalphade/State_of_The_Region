@@ -22,4 +22,5 @@ This project demonstrates the following key competencies:
 
 The insights from this project offer valuable information for stakeholders in regional planning, economic development, and public policy. By examining affordability and the talent pipeline, this analysis highlights the Tampa Bay region's current standing and potential growth areas.
 
+## Below is the screenshot of the Dashboard I created
 ![Dashboard Screenshot](images/Dashboard.png)
